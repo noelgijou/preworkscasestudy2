@@ -1,0 +1,73 @@
+body{
+    background-size:cover;
+    
+}
+.sizetest{
+    width: 1280px;
+    margin:auto;
+    
+}
+
+.formlog{
+width:30%;
+margin:auto;
+margin-top: 5%;
+}
+
+
+.mymargin{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.frrr{
+    
+    padding: 2%;
+    background-color: rgba(147, 255, 250, 0.568);
+    border-radius: 10px 15px 15px 10px;
+    
+}
+
+#boxfront{
+    float:right;
+    max-width: 280px;
+    background-color: rgba(83, 180, 135, 0.185);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(220, 233, 210);
+    max-height: 720px;
+}
+
+.frosi{
+font-size:129% ;
+}
+
+.text-info{
+    color:blue
+}
+
+.imgdivlogin {
+
+    background-image:url(/images/bookcake.jpg);
+    background-size: cover;
+    /* width: 400px; */
+    height: 600px;
+    
+}
+
+.text-info1{
+    color:rgb(0, 37, 250)
+}
+
+.imgdivsignup {
+
+    background-image:url(/images/lib.jpg);
+    background-size: cover;
+    /* width: 400px; */
+     /* height: 500px; */
+        
+}
+
+.popoutform{
+    margin:auto;
+    margin-top: 5%;
+}
